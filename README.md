@@ -1,4 +1,4 @@
-<div align=center> <h3> Welcome to my profile, I'm Évellin Medeiros... 😊 </h3> </div>
+<div align=center> <h2> Welcome to my profile, I'm Évellin Medeiros... 😊 </h2> </div>
 
  <div align="center"> 
     <a href="https://github.com/EvellinM">
