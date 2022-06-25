@@ -19,7 +19,7 @@
   <img align="center" alt="Eve-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Eve-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
   </div>
-    <div align="right"> <img align="center" alt="Eve-gif" height="150" style="border-radius:50px" src="https://media.discordapp.net/attachments/936427860531503158/936427921533440061/me.gif?width=408&height=408"> </div>
+    <div align="left"> <img align="center" alt="Eve-gif" height="150" style="border-radius:50px" src="https://media.discordapp.net/attachments/936427860531503158/936427921533440061/me.gif?width=408&height=408"> </div>
 
   
 </div>
